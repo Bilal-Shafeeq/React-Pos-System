@@ -162,7 +162,7 @@ const POSPage = () => {
             <div className='mt-3'>
               {
                 totalAmount !== 0 ? <div>
-                  <button className='btn btn-primary' onClick={handlePrint}>
+                  <button className='btn btn-primary mb-3' onClick={handlePrint}>
                    Pay Now
                   </button>
                 </div> : <h5>Please add a product to the cart</h5>
