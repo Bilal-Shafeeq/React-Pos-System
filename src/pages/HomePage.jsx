@@ -8,7 +8,7 @@ const HomePage = () => {
         <MainLayout>
             <div class="container">
                 <div class="row bg-light p-5 mt-4 rounded-3">
-                    <div class="col-9" >
+                    <div class="col-md-9" >
                             <h1>Welcome to the simple POS for small business</h1>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus consequatur nisi reiciendis totam.</p>
                             <p>If you have an issue, call 123-456-789 anytimes</p>
