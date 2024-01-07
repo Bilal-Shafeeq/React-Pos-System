@@ -16,7 +16,7 @@ const HomePage = () => {
                     </div>
                     <div className="col-md-3 d-flex flex-column align-items-center justify-content-center">
                         <img src={logo} style={{ maxWidth: "100%", height: "auto" }} className="img-fluid rounded-circle mb-3" />
-                        <h6>Developed by <span style={{fontWeight:"bold"}}>BILAL SHAFEEQ 😎</span></h6>
+                        <h6>Developed by <span style={{fontWeight:"bold"}}>BILAL SHAFEEQ</span></h6>
                     </div>
                 </div>
                 </div>
