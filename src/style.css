@@ -1,0 +1,14 @@
+.pos-item{
+    cursor: pointer;
+    font-weight:700;
+}
+
+.pos-item:hover{
+  background: rgba(2, 85, 162);
+  color: white;
+}
+
+/* ------------- */
+
+
+
