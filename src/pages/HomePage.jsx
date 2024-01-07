@@ -12,7 +12,7 @@ const HomePage = () => {
                             <h1>Welcome to the simple POS for small business</h1>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus consequatur nisi reiciendis totam.</p>
                             <p>If you have an issue, call 123-456-789 anytimes</p>
-                            <NavLink to="/pos" className='btn btn-primary mb-5 mt-4'>Click here to sell products</NavLink>
+                            <NavLink to="/pos" className='btn btn-primary mb-5 mt-3'>Click here to sell products</NavLink>
                     </div>
                     <div className="col-md-3 d-flex flex-column align-items-center justify-content-center">
                         <img src={logo} style={{ maxWidth: "100%", height: "auto" }} className="img-fluid rounded-circle mb-3" />
