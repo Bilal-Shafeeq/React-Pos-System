@@ -126,7 +126,7 @@ const POSPage = () => {
             </div>
             }
         </div>
-        <div className='col-lg-4'>
+        <div className='col-md-4'>
         <div style={{display:'none'}}>
             <ComponentToPrint cart={cart} totalAmount={totalAmount} ref={componentRef}/>
         </div>
